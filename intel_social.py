@@ -1,31 +1,24 @@
-
-import snscrape.modules.twitter as sntwitter
+import praw
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-import nltk
+import numpy as np
 
-nltk.download("vader_lexicon")
-sia = SentimentIntensityAnalyzer()
+reddit = praw.Reddit(
+    client_id="YOUR_CLIENT_ID",
+    client_secret="YOUR_CLIENT_SECRET",
+    user_agent="HunterBot"
+)
 
-def fetch_twitter_sentiment(query="solana", limit=50):
-    tweets = []
-    for i, tweet in enumerate(sntwitter.TwitterSearchScraper(query).get_items()):
-        if i >= limit:
-            break
-        tweets.append(tweet.content)
+analyzer = SentimentIntensityAnalyzer()
 
-    sentiments = [sia.polarity_scores(t)["compound"] for t in tweets]
-    avg_sentiment = sum(sentiments) / len(sentiments) if sentiments else 0.0
-    return avg_sentiment, tweets
+def fetch_reddit_sentiment(subreddits, post_limit=20):
+    all_headlines = []
+    for sub in subreddits:
+        subreddit = reddit.subreddit(sub)
+        for post in subreddit.hot(limit=post_limit):
+            if not post.stickied:
+                all_headlines.append(post.title)
+    return all_headlines
 
-def get_latest_social_sentiment():
-    try:
-        return fetch_twitter_sentiment()
-    except Exception as e:
-        print("[SOCIAL ERROR]", e)
-        return 0.0, []
-
-if __name__ == "__main__":
-    score, tweets = get_latest_social_sentiment()
-    print("[TWITTER] Avg Sentiment:", score)
-    for t in tweets[:5]:
-        print("📝", t)
+def analyze_reddit_sentiment(headlines):
+    scores = [analyzer.polarity_scores(title)['compound'] for title in headlines]
+    return np.mean(scores) if scores else 0.0

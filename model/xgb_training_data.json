@@ -1,0 +1,46 @@
+{
+  "features": [
+    "predicted_price",
+    "sentiment_score",
+    "volatility",
+    "momentum",
+    "risk_level",
+    "rsi",
+    "macd",
+    "macd_signal",
+    "bb_high",
+    "bb_low",
+    "price"
+  ],
+  "label": "action_class",
+  "samples": [
+    {
+      "predicted_price": 101.2,
+      "sentiment_score": 0.1,
+      "volatility": 0.03,
+      "momentum": 0.04,
+      "risk_level": 0.5,
+      "rsi": 45,
+      "macd": 0.02,
+      "macd_signal": 0.01,
+      "bb_high": 103,
+      "bb_low": 98,
+      "price": 100,
+      "action_class": 1
+    },
+    {
+      "predicted_price": 99.8,
+      "sentiment_score": -0.2,
+      "volatility": 0.05,
+      "momentum": -0.03,
+      "risk_level": 0.7,
+      "rsi": 60,
+      "macd": -0.01,
+      "macd_signal": 0.0,
+      "bb_high": 102,
+      "bb_low": 97,
+      "price": 99,
+      "action_class": 0
+    }
+  ]
+}

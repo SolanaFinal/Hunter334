@@ -1,0 +1,17 @@
+{
+  "use_gpu": true,
+  "max_cpu_threads": 8,
+  "training_interval_minutes": 10,
+  "live_learning": true,
+  "enable_background_learning": true,
+  "resource_allocation": {
+    "learning": 0.6,
+    "trading": 0.3,
+    "ui": 0.1
+  },
+  "model_optimization": {
+    "xgboost_boosting_rounds": 150,
+    "lstm_epochs": 5
+  },
+  "gpu_fallback_to_cpu": true
+}

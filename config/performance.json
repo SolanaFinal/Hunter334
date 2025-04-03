@@ -1,0 +1,9 @@
+{
+  "cpu_usage": 0.8,
+  "gpu_usage": 1.0,
+  "training_interval_minutes": 10,
+  "gpu_acceleration": true,
+  "enable_background_learning": true,
+  "performance_mode": "high",
+  "allow_extended_data_sources": true
+}

@@ -1,0 +1,19 @@
+{
+  "tokens": [
+    {
+      "symbol": "SOL",
+      "address": "So11111111111111111111111111111111111111112",
+      "decimals": 9
+    },
+    {
+      "symbol": "USDC",
+      "address": "Axa1xpyvWqYzKqhm57gZVC8Y4uzugGoyFPDQ2JxwZjD6",
+      "decimals": 6
+    },
+    {
+      "symbol": "BONK",
+      "address": "DezXqvbYgudaHx2nVyqQzDBZpTCWzKoxQYZ96p3VwRKT",
+      "decimals": 5
+    }
+  ]
+}

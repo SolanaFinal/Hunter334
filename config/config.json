@@ -1,0 +1,16 @@
+{
+  "mode": "simulation",
+  "log_level": "info",
+  "use_gpu": true,
+  "auto_trade": true,
+  "refresh_interval_seconds": 60,
+  "model_update_interval_minutes": 10,
+  "wallet": {
+    "use_real_wallet": false,
+    "private_key": ""
+  },
+  "ui": {
+    "theme": "dark",
+    "language": "de"
+  }
+}

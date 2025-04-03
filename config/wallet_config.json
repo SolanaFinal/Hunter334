@@ -1,0 +1,6 @@
+{
+  "mode": "simulation",  // oder: "real"
+  "private_key": "",
+  "use_fake_sol": true,
+  "starting_balance": 1000.0
+}
