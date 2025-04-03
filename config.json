@@ -1,0 +1,6 @@
+{
+  "phantom_private_key": "4cxtJZZb8eoYBUwmLTxf2BkoJkgoPHNskPRKkNb4yM2JPQk6DgT2Y6xcNiMtVGREzMdmsMpWyW4Nh6MekScSh2Gp",
+  "trade_interval_seconds": 5,
+  "risk_tolerance": "medium",
+  "auto_update": true
+}

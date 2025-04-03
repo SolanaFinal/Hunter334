@@ -1,0 +1,2136 @@
+[
+  {
+    "inputs": {
+      "predicted_price": 0.06195060536265373,
+      "sentiment_score": -0.046,
+      "volatility": 0.28508246353098793,
+      "momentum": -0.34990592708464907,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0631810650229454,
+      "sentiment_score": 0.744,
+      "volatility": 0.28035559991189485,
+      "momentum": -0.3375062107161656,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.031261101365089417,
+      "sentiment_score": 0.945,
+      "volatility": 0.3013417493150629,
+      "momentum": 0.787249429122869,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.023693177849054337,
+      "sentiment_score": 0.74,
+      "volatility": 0.31025126813580356,
+      "momentum": 0.43266905682527745,
+      "risk_level": 1.0
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05672783404588699,
+      "sentiment_score": 0.16,
+      "volatility": 0.24886862659923822,
+      "momentum": -0.17232923153223512,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07189338654279709,
+      "sentiment_score": 0.681,
+      "volatility": 0.28954101022765644,
+      "momentum": -0.686433872755937,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04541845619678497,
+      "sentiment_score": -0.602,
+      "volatility": 0.2990081815936879,
+      "momentum": 0.09975396658380076,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04002518206834793,
+      "sentiment_score": 0.828,
+      "volatility": 0.272031964252614,
+      "momentum": 0.347965110698246,
+      "risk_level": 1.0
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.029641497880220413,
+      "sentiment_score": -0.52,
+      "volatility": 0.2841939556900903,
+      "momentum": -0.2171835275602242,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03762210160493851,
+      "sentiment_score": -0.579,
+      "volatility": 0.28222003696196174,
+      "momentum": -0.026862358352614857,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04358496144413948,
+      "sentiment_score": 0.834,
+      "volatility": 0.27322131186975723,
+      "momentum": 0.3740708575497915,
+      "risk_level": 1.0
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0388781912624836,
+      "sentiment_score": 0.133,
+      "volatility": 0.3017062214393812,
+      "momentum": -0.30889797214462356,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.032381899654865265,
+      "sentiment_score": 0.645,
+      "volatility": 0.2849845263298378,
+      "momentum": 0.18737096622809257,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03256817162036896,
+      "sentiment_score": -0.854,
+      "volatility": 0.28805470178782533,
+      "momentum": 0.07723162092980351,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05238838493824005,
+      "sentiment_score": 0.149,
+      "volatility": 0.3160774905849711,
+      "momentum": -0.1470969080516803,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06406708806753159,
+      "sentiment_score": 0.757,
+      "volatility": 0.2832287551774894,
+      "momentum": -0.4630242113733095,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.020437084138393402,
+      "sentiment_score": -0.554,
+      "volatility": 0.3121958480942308,
+      "momentum": 0.658500645735377,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.049448926001787186,
+      "sentiment_score": 0.125,
+      "volatility": 0.27419230902785036,
+      "momentum": -0.45009575862103823,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.019405784085392952,
+      "sentiment_score": 0.449,
+      "volatility": 0.25613934613069594,
+      "momentum": 0.49048772175337896,
+      "risk_level": 1.0
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07398473471403122,
+      "sentiment_score": -0.59,
+      "volatility": 0.27997309388464753,
+      "momentum": -0.7445851986225017,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04360027238726616,
+      "sentiment_score": -0.389,
+      "volatility": 0.30608726276202125,
+      "momentum": 0.5007852302291924,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.039368946105241776,
+      "sentiment_score": -0.234,
+      "volatility": 0.2818526831923719,
+      "momentum": 0.4602140148764867,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.051046352833509445,
+      "sentiment_score": 0.034,
+      "volatility": 0.2916899461156573,
+      "momentum": 0.4248561095524567,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.023109257221221924,
+      "sentiment_score": -0.501,
+      "volatility": 0.3008927159712569,
+      "momentum": 0.6057355503338331,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05197861045598984,
+      "sentiment_score": 0.87,
+      "volatility": 0.279412155243113,
+      "momentum": -0.13956017105385154,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.01838979311287403,
+      "sentiment_score": 0.576,
+      "volatility": 0.2959544784348941,
+      "momentum": 0.775734165480015,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05755370855331421,
+      "sentiment_score": -0.5,
+      "volatility": 0.29747439130195635,
+      "momentum": -0.020893724169897432,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0823592022061348,
+      "sentiment_score": 0.943,
+      "volatility": 0.2902328378996748,
+      "momentum": -0.2634942312358034,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06045344099402428,
+      "sentiment_score": 0.12,
+      "volatility": 0.26365733523411183,
+      "momentum": 0.19492239190034122,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04745904728770256,
+      "sentiment_score": 0.421,
+      "volatility": 0.27675492013043307,
+      "momentum": 0.47939078636786103,
+      "risk_level": 1.0
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05492038279771805,
+      "sentiment_score": -0.176,
+      "volatility": 0.27307642805344295,
+      "momentum": 0.20758180595369835,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06623394042253494,
+      "sentiment_score": -0.72,
+      "volatility": 0.27704830907329725,
+      "momentum": 0.005726222590275443,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.001338768983259797,
+      "sentiment_score": 0.023,
+      "volatility": 0.2643161785185389,
+      "momentum": 0.4588168939478482,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.044925399124622345,
+      "sentiment_score": -0.562,
+      "volatility": 0.27657887446685175,
+      "momentum": -0.06168522859902903,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.039229054003953934,
+      "sentiment_score": -0.329,
+      "volatility": 0.29024465907940517,
+      "momentum": 0.41859699711604414,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06903357058763504,
+      "sentiment_score": -0.517,
+      "volatility": 0.3085344043947616,
+      "momentum": -0.08360848944394073,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06326984614133835,
+      "sentiment_score": -0.722,
+      "volatility": 0.2562658355894526,
+      "momentum": -0.6245229242204696,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0209059901535511,
+      "sentiment_score": -0.502,
+      "volatility": 0.30313953046768766,
+      "momentum": 0.4929364213963039,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06075461208820343,
+      "sentiment_score": 0.581,
+      "volatility": 0.30753437189920785,
+      "momentum": 0.17259610105483592,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.040314000099897385,
+      "sentiment_score": -0.241,
+      "volatility": 0.2709471696348691,
+      "momentum": 0.39299575191857006,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03880653157830238,
+      "sentiment_score": -0.579,
+      "volatility": 0.3025173841274139,
+      "momentum": 0.7565822015764619,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.034860704094171524,
+      "sentiment_score": 0.958,
+      "volatility": 0.31131033109227757,
+      "momentum": 0.6338266694492218,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.018354400992393494,
+      "sentiment_score": 0.795,
+      "volatility": 0.3064971143087149,
+      "momentum": 0.7281233402730297,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.046314436942338943,
+      "sentiment_score": -0.777,
+      "volatility": 0.26341071229400476,
+      "momentum": 0.4793362161639142,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06435991823673248,
+      "sentiment_score": 0.307,
+      "volatility": 0.2962992222244645,
+      "momentum": -0.3857923555029441,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.02475849539041519,
+      "sentiment_score": 0.585,
+      "volatility": 0.2934805726819628,
+      "momentum": -0.1421142341052255,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03322635591030121,
+      "sentiment_score": 0.25,
+      "volatility": 0.28785125640455267,
+      "momentum": 0.5409323413405879,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0630132257938385,
+      "sentiment_score": 0.083,
+      "volatility": 0.27005338613449165,
+      "momentum": 0.5048466277225466,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04471302032470703,
+      "sentiment_score": -0.234,
+      "volatility": 0.2588257159617652,
+      "momentum": 0.4124567443987218,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.054410457611083984,
+      "sentiment_score": -0.011,
+      "volatility": 0.2932969413893518,
+      "momentum": -0.35851969834586717,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08084382861852646,
+      "sentiment_score": -0.271,
+      "volatility": 0.31858047254153343,
+      "momentum": 0.004616196806208728,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.02728232741355896,
+      "sentiment_score": -0.437,
+      "volatility": 0.29010456686642644,
+      "momentum": -0.10039606527061895,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07540421932935715,
+      "sentiment_score": -0.408,
+      "volatility": 0.32133392267472216,
+      "momentum": -0.6308234146540699,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.034941695630550385,
+      "sentiment_score": 0.061,
+      "volatility": 0.27191596003714696,
+      "momentum": 0.6871295368103668,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.030834197998046875,
+      "sentiment_score": -0.127,
+      "volatility": 0.3197237746282531,
+      "momentum": -0.273785586044205,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07908133417367935,
+      "sentiment_score": 0.595,
+      "volatility": 0.29714523131014914,
+      "momentum": -0.3708608605772764,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.036488939076662064,
+      "sentiment_score": 0.41,
+      "volatility": 0.2647397138643517,
+      "momentum": 0.7596796276340653,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0886651948094368,
+      "sentiment_score": 0.67,
+      "volatility": 0.28926259916617914,
+      "momentum": -0.10543694517815949,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05065340921282768,
+      "sentiment_score": -0.735,
+      "volatility": 0.3008336059519526,
+      "momentum": -0.8447837244294863,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04349303990602493,
+      "sentiment_score": 0.135,
+      "volatility": 0.2906769369167909,
+      "momentum": -0.10794938464310488,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05652462691068649,
+      "sentiment_score": -0.405,
+      "volatility": 0.2745817490542354,
+      "momentum": -0.2851899320614687,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.019480794668197632,
+      "sentiment_score": -0.101,
+      "volatility": 0.2686512915964495,
+      "momentum": -0.1241525669104725,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05242683365941048,
+      "sentiment_score": -0.692,
+      "volatility": 0.2665011527463141,
+      "momentum": 0.2558655036960542,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.036456383764743805,
+      "sentiment_score": -0.965,
+      "volatility": 0.3025087333192289,
+      "momentum": 0.3569785034412608,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07933539897203445,
+      "sentiment_score": -0.789,
+      "volatility": 0.2880038567692334,
+      "momentum": -0.6708580947021825,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.055813420563936234,
+      "sentiment_score": -0.753,
+      "volatility": 0.29185573879440196,
+      "momentum": 0.13729953496418834,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07504902780056,
+      "sentiment_score": -0.203,
+      "volatility": 0.28903538410705487,
+      "momentum": -0.910408348563938,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0412532277405262,
+      "sentiment_score": -0.873,
+      "volatility": 0.28932298575897664,
+      "momentum": 0.3339367406453163,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07835792005062103,
+      "sentiment_score": -0.374,
+      "volatility": 0.2566188878223278,
+      "momentum": -0.4394187897057885,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06844552606344223,
+      "sentiment_score": -0.523,
+      "volatility": 0.30715907950294413,
+      "momentum": -0.8595873740216095,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0834219753742218,
+      "sentiment_score": -0.336,
+      "volatility": 0.31211988055094697,
+      "momentum": -0.5206678807986206,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.013443042524158955,
+      "sentiment_score": 0.078,
+      "volatility": 0.30822322165906313,
+      "momentum": 0.2600978495401536,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06547796726226807,
+      "sentiment_score": -0.725,
+      "volatility": 0.29351303230187614,
+      "momentum": 0.0562542808120563,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03463480621576309,
+      "sentiment_score": -0.611,
+      "volatility": 0.287959916188732,
+      "momentum": 0.5408908664320242,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.025259681046009064,
+      "sentiment_score": -0.378,
+      "volatility": 0.2797881342881416,
+      "momentum": -0.21825776828374177,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.017229124903678894,
+      "sentiment_score": 0.748,
+      "volatility": 0.30510495969777585,
+      "momentum": 0.1878192877473437,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04387285187840462,
+      "sentiment_score": 0.099,
+      "volatility": 0.2811056974913492,
+      "momentum": -0.3107963953260049,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05740081146359444,
+      "sentiment_score": 0.564,
+      "volatility": 0.29147397368816075,
+      "momentum": -0.3680984187315186,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.026334255933761597,
+      "sentiment_score": 0.874,
+      "volatility": 0.30152218596567926,
+      "momentum": 0.2341993405360675,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.02915176749229431,
+      "sentiment_score": -0.504,
+      "volatility": 0.2843156588139812,
+      "momentum": 0.13898933133073044,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.030392225831747055,
+      "sentiment_score": -0.327,
+      "volatility": 0.2784359051683878,
+      "momentum": 0.9243500428436936,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05936692655086517,
+      "sentiment_score": -0.184,
+      "volatility": 0.3180016924924297,
+      "momentum": 0.31748899649688567,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03138577193021774,
+      "sentiment_score": -0.325,
+      "volatility": 0.2538744871500852,
+      "momentum": -0.3511552427313642,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05726556107401848,
+      "sentiment_score": 0.96,
+      "volatility": 0.2833440508887378,
+      "momentum": -0.5594348542987061,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07442174106836319,
+      "sentiment_score": -0.314,
+      "volatility": 0.28666896899263017,
+      "momentum": -0.020017203590008248,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04658651724457741,
+      "sentiment_score": 0.775,
+      "volatility": 0.2985906969334978,
+      "momentum": 0.015322308365310011,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04032376781105995,
+      "sentiment_score": 0.021,
+      "volatility": 0.2961260728536316,
+      "momentum": 0.5378909623445374,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.015727773308753967,
+      "sentiment_score": -0.34,
+      "volatility": 0.2932858996494167,
+      "momentum": 0.28703840643516365,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05209019407629967,
+      "sentiment_score": -0.96,
+      "volatility": 0.25030247740003647,
+      "momentum": -0.18435737416953657,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05726044997572899,
+      "sentiment_score": -0.476,
+      "volatility": 0.28942796172359014,
+      "momentum": -0.025935429822703582,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.02649420127272606,
+      "sentiment_score": -0.549,
+      "volatility": 0.3015664718666547,
+      "momentum": 0.2798667852352804,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0681159719824791,
+      "sentiment_score": -0.455,
+      "volatility": 0.2980554486001855,
+      "momentum": 0.03015628538502413,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.041006289422512054,
+      "sentiment_score": 0.878,
+      "volatility": 0.27512026247193666,
+      "momentum": 0.04338402803642638,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.061880793422460556,
+      "sentiment_score": -0.386,
+      "volatility": 0.26789626146186685,
+      "momentum": -0.34586716594226896,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.057410553097724915,
+      "sentiment_score": 0.77,
+      "volatility": 0.2594856374648369,
+      "momentum": 0.0951852234344226,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08439230918884277,
+      "sentiment_score": 0.558,
+      "volatility": 0.30161241655522925,
+      "momentum": 0.031986508547227066,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.031217243522405624,
+      "sentiment_score": -0.323,
+      "volatility": 0.266896838066021,
+      "momentum": -0.010790932142046628,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0631953552365303,
+      "sentiment_score": -0.263,
+      "volatility": 0.297995510862025,
+      "momentum": -0.058495967474768484,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04614817351102829,
+      "sentiment_score": -0.825,
+      "volatility": 0.29522390543776483,
+      "momentum": -0.13439076717215803,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08450565487146378,
+      "sentiment_score": 0.585,
+      "volatility": 0.31481377796421145,
+      "momentum": -0.7940767596184498,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.051304589956998825,
+      "sentiment_score": -0.198,
+      "volatility": 0.28428685102420514,
+      "momentum": -0.46695757177908015,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06581757217645645,
+      "sentiment_score": -0.495,
+      "volatility": 0.2938476628194469,
+      "momentum": -0.4506321805300394,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07015123218297958,
+      "sentiment_score": -0.408,
+      "volatility": 0.28048022684797647,
+      "momentum": -0.5869840031660333,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06476960331201553,
+      "sentiment_score": -0.94,
+      "volatility": 0.2841396741868709,
+      "momentum": -0.5864390606760232,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0784330889582634,
+      "sentiment_score": 0.145,
+      "volatility": 0.2880060654858001,
+      "momentum": -0.6640803618305025,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08342152088880539,
+      "sentiment_score": 0.381,
+      "volatility": 0.2988056296965161,
+      "momentum": -0.24775214545402313,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03290123865008354,
+      "sentiment_score": 0.803,
+      "volatility": 0.274239770755941,
+      "momentum": -0.15471755595071057,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.09671152383089066,
+      "sentiment_score": -0.631,
+      "volatility": 0.2783227946019119,
+      "momentum": -0.8063260939161844,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05446815863251686,
+      "sentiment_score": -0.601,
+      "volatility": 0.2821505069999156,
+      "momentum": -0.4429749274903374,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03887453302741051,
+      "sentiment_score": 0.343,
+      "volatility": 0.2722861798876259,
+      "momentum": 0.8887710423058002,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08004361391067505,
+      "sentiment_score": -0.063,
+      "volatility": 0.27938285228672505,
+      "momentum": -0.317460577040086,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05122555419802666,
+      "sentiment_score": -0.911,
+      "volatility": 0.2760604783179409,
+      "momentum": 0.5149900333951389,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.031795378774404526,
+      "sentiment_score": -0.858,
+      "volatility": 0.2631914617531108,
+      "momentum": 0.6146594778668679,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04220985993742943,
+      "sentiment_score": 0.982,
+      "volatility": 0.29100218842838066,
+      "momentum": -0.14088506234814713,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06811673194169998,
+      "sentiment_score": -0.486,
+      "volatility": 0.27311598383455044,
+      "momentum": 0.10989505376168884,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.037623755633831024,
+      "sentiment_score": 0.124,
+      "volatility": 0.2882729458722266,
+      "momentum": 0.17581134074291904,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0527273528277874,
+      "sentiment_score": -0.89,
+      "volatility": 0.25877772792678316,
+      "momentum": 0.24497329112780963,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04849402233958244,
+      "sentiment_score": 0.115,
+      "volatility": 0.31210079803275814,
+      "momentum": -0.7701971334460141,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06499949097633362,
+      "sentiment_score": 0.163,
+      "volatility": 0.27096143120524746,
+      "momentum": 0.06841005456758831,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.026551783084869385,
+      "sentiment_score": -0.977,
+      "volatility": 0.2760203687124111,
+      "momentum": 0.4441473079471895,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04365072399377823,
+      "sentiment_score": 0.791,
+      "volatility": 0.28322623470932623,
+      "momentum": 0.7388205705164754,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.025649938732385635,
+      "sentiment_score": 0.281,
+      "volatility": 0.29373582234044254,
+      "momentum": -0.12925711211239965,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08823888748884201,
+      "sentiment_score": 0.872,
+      "volatility": 0.294791776604509,
+      "momentum": -0.605862283747631,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08289866894483566,
+      "sentiment_score": 0.338,
+      "volatility": 0.25145104856552786,
+      "momentum": -0.412370039481878,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05685042589902878,
+      "sentiment_score": -0.049,
+      "volatility": 0.2603090163713538,
+      "momentum": -0.40394505141183124,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07464872300624847,
+      "sentiment_score": -0.517,
+      "volatility": 0.29760614907575844,
+      "momentum": -0.3963493343550375,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.040745459496974945,
+      "sentiment_score": -0.017,
+      "volatility": 0.2945038234361243,
+      "momentum": 0.545704521441112,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06238739192485809,
+      "sentiment_score": -0.47,
+      "volatility": 0.28358596842176903,
+      "momentum": -0.460705500258366,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.034014131873846054,
+      "sentiment_score": 0.73,
+      "volatility": 0.27119118368966466,
+      "momentum": -0.14560408564002436,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06938210874795914,
+      "sentiment_score": 0.673,
+      "volatility": 0.27610850183827323,
+      "momentum": 0.15658547536228573,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.054448451846838,
+      "sentiment_score": 0.843,
+      "volatility": 0.2885994946513613,
+      "momentum": -0.11304353538047984,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.057505637407302856,
+      "sentiment_score": -0.311,
+      "volatility": 0.2691175897638962,
+      "momentum": -0.3065384324080387,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.041702356189489365,
+      "sentiment_score": -0.656,
+      "volatility": 0.3004920760232049,
+      "momentum": 0.5467485210223696,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08121845126152039,
+      "sentiment_score": 0.198,
+      "volatility": 0.28796667538438275,
+      "momentum": -0.017899354271078916,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.02814282849431038,
+      "sentiment_score": 0.053,
+      "volatility": 0.29472256815744813,
+      "momentum": 0.6735557118068694,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08522509783506393,
+      "sentiment_score": -0.359,
+      "volatility": 0.291647573258969,
+      "momentum": 0.031140782513217724,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.034960512071847916,
+      "sentiment_score": 0.166,
+      "volatility": 0.2722813126810991,
+      "momentum": -0.17911225087247218,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0363265797495842,
+      "sentiment_score": 0.627,
+      "volatility": 0.306734365146629,
+      "momentum": 0.7499068180733679,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04947999119758606,
+      "sentiment_score": 0.528,
+      "volatility": 0.2665571882993573,
+      "momentum": -0.024184710257311393,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04489314556121826,
+      "sentiment_score": -0.514,
+      "volatility": 0.28905502306620645,
+      "momentum": -0.24457431365622995,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0401138961315155,
+      "sentiment_score": -0.97,
+      "volatility": 0.2556793644894994,
+      "momentum": 0.3680701648664553,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.041909072548151016,
+      "sentiment_score": 0.967,
+      "volatility": 0.29501555163629245,
+      "momentum": 0.43032698336947983,
+      "risk_level": 1.0
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03777412325143814,
+      "sentiment_score": 0.043,
+      "volatility": 0.24970058365198367,
+      "momentum": 0.03887437509028313,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07843583822250366,
+      "sentiment_score": 0.322,
+      "volatility": 0.2890215719053668,
+      "momentum": -0.017738761871406328,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.024562258273363113,
+      "sentiment_score": -0.331,
+      "volatility": 0.2752979934934396,
+      "momentum": 0.1791694025409727,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.052060000598430634,
+      "sentiment_score": 0.015,
+      "volatility": 0.2654215770982024,
+      "momentum": 0.2080892869225639,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.060078397393226624,
+      "sentiment_score": -0.33,
+      "volatility": 0.2874330934845145,
+      "momentum": 0.04870552840376663,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.059452712535858154,
+      "sentiment_score": -0.967,
+      "volatility": 0.3070082113321662,
+      "momentum": -0.06529219882681336,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05834956839680672,
+      "sentiment_score": -0.258,
+      "volatility": 0.2944667838434467,
+      "momentum": -0.7023931021682338,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07022955268621445,
+      "sentiment_score": -0.971,
+      "volatility": 0.2636094956116027,
+      "momentum": -0.577252514480332,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.02486950159072876,
+      "sentiment_score": 0.484,
+      "volatility": 0.3021467820932011,
+      "momentum": 0.04213075184187243,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.023309610784053802,
+      "sentiment_score": -0.181,
+      "volatility": 0.27193133510794426,
+      "momentum": 0.4174670063174354,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04143800958991051,
+      "sentiment_score": -0.291,
+      "volatility": 0.30058637650391323,
+      "momentum": 0.45857012529853847,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0744645744562149,
+      "sentiment_score": -0.828,
+      "volatility": 0.2923481365782566,
+      "momentum": 0.2503537897469166,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.057885345071554184,
+      "sentiment_score": -0.603,
+      "volatility": 0.2626850202799508,
+      "momentum": -0.3526054171461218,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0324273556470871,
+      "sentiment_score": 0.801,
+      "volatility": 0.32491288852032113,
+      "momentum": 0.7693828261432172,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05665889382362366,
+      "sentiment_score": 0.112,
+      "volatility": 0.271751540908087,
+      "momentum": -0.28157377418305884,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0746338814496994,
+      "sentiment_score": -0.778,
+      "volatility": 0.29384371317091984,
+      "momentum": 0.27101236825189257,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.029564809054136276,
+      "sentiment_score": 0.216,
+      "volatility": 0.30453124026804096,
+      "momentum": 0.6286099553670391,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.056179214268922806,
+      "sentiment_score": 0.83,
+      "volatility": 0.28956734372947474,
+      "momentum": -0.34242502603551794,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06534675508737564,
+      "sentiment_score": -0.09,
+      "volatility": 0.3077003833589106,
+      "momentum": 0.5696351368660194,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03545038402080536,
+      "sentiment_score": 0.051,
+      "volatility": 0.26329409951624255,
+      "momentum": 0.4272657416039961,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.02964818850159645,
+      "sentiment_score": 0.943,
+      "volatility": 0.28633392327145885,
+      "momentum": 0.06451950452750077,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07355936616659164,
+      "sentiment_score": 0.097,
+      "volatility": 0.28387367183670964,
+      "momentum": -0.16598242666827,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04613736271858215,
+      "sentiment_score": -0.155,
+      "volatility": 0.2693570647633318,
+      "momentum": 0.053721231693587224,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.02760147675871849,
+      "sentiment_score": -0.231,
+      "volatility": 0.30283613546692073,
+      "momentum": 0.33220750805450106,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08419080823659897,
+      "sentiment_score": 0.938,
+      "volatility": 0.26047193920143025,
+      "momentum": -0.7437029394307638,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04458777606487274,
+      "sentiment_score": -0.508,
+      "volatility": 0.28965766127744613,
+      "momentum": -0.4152441530253228,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05323829501867294,
+      "sentiment_score": -0.591,
+      "volatility": 0.2984768260215392,
+      "momentum": 0.33437875480711465,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05393591523170471,
+      "sentiment_score": 0.808,
+      "volatility": 0.2944821683286059,
+      "momentum": 0.41142185482710913,
+      "risk_level": 1.0
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.046064771711826324,
+      "sentiment_score": 0.807,
+      "volatility": 0.30560420954317846,
+      "momentum": -0.5222857995549225,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.027149032801389694,
+      "sentiment_score": -0.962,
+      "volatility": 0.2908301352384071,
+      "momentum": 0.48293265387727724,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04471190273761749,
+      "sentiment_score": -0.097,
+      "volatility": 0.31225974879853513,
+      "momentum": 0.12490597561233774,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06082712858915329,
+      "sentiment_score": -0.659,
+      "volatility": 0.2784876335121598,
+      "momentum": -0.5918008761818591,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07187040150165558,
+      "sentiment_score": -0.347,
+      "volatility": 0.2948142180040904,
+      "momentum": 0.26073401793756046,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07226479053497314,
+      "sentiment_score": 0.047,
+      "volatility": 0.2732659477233387,
+      "momentum": -0.1395416669496159,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08337210863828659,
+      "sentiment_score": -0.787,
+      "volatility": 0.2725192726590414,
+      "momentum": 0.19082057066579539,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03338877111673355,
+      "sentiment_score": -0.136,
+      "volatility": 0.2913038955104675,
+      "momentum": 0.5006944651656289,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07769148796796799,
+      "sentiment_score": -0.544,
+      "volatility": 0.2817672333910779,
+      "momentum": 0.03131616879707322,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04847385734319687,
+      "sentiment_score": -0.114,
+      "volatility": 0.3074857385859393,
+      "momentum": 0.3658539127478806,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05927886813879013,
+      "sentiment_score": 0.958,
+      "volatility": 0.2768553909908827,
+      "momentum": -0.12838431581221332,
+      "risk_level": 1.0
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08878596127033234,
+      "sentiment_score": 0.0,
+      "volatility": 0.27307260826139107,
+      "momentum": -0.8094850409373068,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05680392310023308,
+      "sentiment_score": -0.159,
+      "volatility": 0.30039991452410447,
+      "momentum": -0.5546615877247149,
+      "risk_level": 1.0
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08151495456695557,
+      "sentiment_score": 0.0,
+      "volatility": 0.3114880264686528,
+      "momentum": -0.026230167155943396,
+      "risk_level": 1.0,
+      "rsi": 36.89,
+      "macd": 0.2712,
+      "macd_signal": 0.5767,
+      "bb_high": 131.63,
+      "bb_low": 121.79,
+      "price": 123.28
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07165993750095367,
+      "sentiment_score": 0.0,
+      "volatility": 0.30885761382205273,
+      "momentum": -0.3690789926936975,
+      "risk_level": 1.0,
+      "rsi": 36.89,
+      "macd": 0.2712,
+      "macd_signal": 0.5767,
+      "bb_high": 131.63,
+      "bb_low": 121.79,
+      "price": 123.28
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.03423618525266647,
+      "sentiment_score": 0.0,
+      "volatility": 0.31463549473474317,
+      "momentum": 0.5803627619578683,
+      "risk_level": 1.0,
+      "rsi": 36.89,
+      "macd": 0.2712,
+      "macd_signal": 0.5767,
+      "bb_high": 131.63,
+      "bb_low": 121.79,
+      "price": 123.28
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0470178984105587,
+      "sentiment_score": 0.0,
+      "volatility": 0.29817340449408897,
+      "momentum": 0.12744874237034265,
+      "risk_level": 1.0,
+      "rsi": 36.89,
+      "macd": 0.2712,
+      "macd_signal": 0.5767,
+      "bb_high": 131.63,
+      "bb_low": 121.79,
+      "price": 123.28
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04382118955254555,
+      "sentiment_score": 0.0,
+      "volatility": 0.25848325347575124,
+      "momentum": 0.21382313140633746,
+      "risk_level": 1.0,
+      "rsi": 34.86,
+      "macd": 0.2005,
+      "macd_signal": 0.5626,
+      "bb_high": 131.72,
+      "bb_low": 121.61,
+      "price": 122.39
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.08361028879880905,
+      "sentiment_score": 0.0,
+      "volatility": 0.27421559265897055,
+      "momentum": -0.5927161752996392,
+      "risk_level": 1.0,
+      "rsi": 34.86,
+      "macd": 0.2005,
+      "macd_signal": 0.5626,
+      "bb_high": 131.72,
+      "bb_low": 121.61,
+      "price": 122.39
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05431312695145607,
+      "sentiment_score": 0.0,
+      "volatility": 0.3023495852061844,
+      "momentum": 0.4154640944027018,
+      "risk_level": 1.0,
+      "rsi": 34.86,
+      "macd": 0.2005,
+      "macd_signal": 0.5626,
+      "bb_high": 131.72,
+      "bb_low": 121.61,
+      "price": 122.39
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.027760077267885208,
+      "sentiment_score": 0.0,
+      "volatility": 0.27468290064539946,
+      "momentum": 0.7657710718167561,
+      "risk_level": 1.0,
+      "rsi": 34.86,
+      "macd": 0.2005,
+      "macd_signal": 0.5626,
+      "bb_high": 131.72,
+      "bb_low": 121.61,
+      "price": 122.39
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.059272848069667816,
+      "sentiment_score": 0.0,
+      "volatility": 0.29567633058309045,
+      "momentum": 0.10344786849097465,
+      "risk_level": 1.0,
+      "rsi": 34.86,
+      "macd": 0.2005,
+      "macd_signal": 0.5626,
+      "bb_high": 131.72,
+      "bb_low": 121.61,
+      "price": 122.39
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05792875587940216,
+      "sentiment_score": 0.0,
+      "volatility": 0.2670850149382528,
+      "momentum": 0.18581949536391784,
+      "risk_level": 1.0,
+      "rsi": 34.86,
+      "macd": 0.2005,
+      "macd_signal": 0.5626,
+      "bb_high": 131.72,
+      "bb_low": 121.61,
+      "price": 122.39
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.06910277158021927,
+      "sentiment_score": 0.0,
+      "volatility": 0.2832909148038091,
+      "momentum": -0.38979332765470687,
+      "risk_level": 1.0,
+      "rsi": 35.02,
+      "macd": 0.2063,
+      "macd_signal": 0.5638,
+      "bb_high": 131.72,
+      "bb_low": 121.63,
+      "price": 122.46
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05423895642161369,
+      "sentiment_score": 0.0,
+      "volatility": 0.3137846605775664,
+      "momentum": -0.34635238824501247,
+      "risk_level": 1.0,
+      "rsi": 35.02,
+      "macd": 0.2063,
+      "macd_signal": 0.5638,
+      "bb_high": 131.72,
+      "bb_low": 121.63,
+      "price": 122.46
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.041406646370887756,
+      "sentiment_score": 0.0,
+      "volatility": 0.2859799969335357,
+      "momentum": 0.3164181834893921,
+      "risk_level": 1.0,
+      "rsi": 35.02,
+      "macd": 0.2063,
+      "macd_signal": 0.5638,
+      "bb_high": 131.72,
+      "bb_low": 121.63,
+      "price": 122.46
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05716272443532944,
+      "sentiment_score": 0.0,
+      "volatility": 0.3040991976327727,
+      "momentum": -0.26601541220678204,
+      "risk_level": 1.0,
+      "rsi": 34.21,
+      "macd": 0.1758,
+      "macd_signal": 0.5577,
+      "bb_high": 131.76,
+      "bb_low": 121.54,
+      "price": 122.08
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.05043647438287735,
+      "sentiment_score": 0.0,
+      "volatility": 0.30278185683184794,
+      "momentum": 0.4029632405665534,
+      "risk_level": 1.0,
+      "rsi": 34.21,
+      "macd": 0.1758,
+      "macd_signal": 0.5577,
+      "bb_high": 131.76,
+      "bb_low": 121.54,
+      "price": 122.08
+    },
+    "action": "SELL"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.0612153522670269,
+      "sentiment_score": 0.0,
+      "volatility": 0.25540978999680114,
+      "momentum": -0.415738196886969,
+      "risk_level": 1.0,
+      "rsi": 34.21,
+      "macd": 0.1758,
+      "macd_signal": 0.5577,
+      "bb_high": 131.76,
+      "bb_low": 121.54,
+      "price": 122.08
+    },
+    "action": "HOLD"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.050609685480594635,
+      "sentiment_score": 0.0,
+      "volatility": 0.27094709035330566,
+      "momentum": 0.019754973267973375,
+      "risk_level": 1.0,
+      "rsi": 34.08,
+      "macd": 0.1711,
+      "macd_signal": 0.5567,
+      "bb_high": 131.77,
+      "bb_low": 121.53,
+      "price": 122.02
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.07315289229154587,
+      "sentiment_score": 0.0,
+      "volatility": 0.2917678738487792,
+      "momentum": 0.08449947368228938,
+      "risk_level": 1.0,
+      "rsi": 34.08,
+      "macd": 0.1711,
+      "macd_signal": 0.5567,
+      "bb_high": 131.77,
+      "bb_low": 121.53,
+      "price": 122.02
+    },
+    "action": "BUY"
+  },
+  {
+    "inputs": {
+      "predicted_price": 0.04614688828587532,
+      "sentiment_score": 0.0,
+      "volatility": 0.30756439555976534,
+      "momentum": 0.6249615995223221,
+      "risk_level": 1.0,
+      "rsi": 34.08,
+      "macd": 0.1711,
+      "macd_signal": 0.5567,
+      "bb_high": 131.77,
+      "bb_low": 121.53,
+      "price": 122.02
+    },
+    "action": "BUY"
+  }
+]
